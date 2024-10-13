@@ -272,7 +272,7 @@ Technology Implementations.
                     </div>
                   </div>
                 </div>
-                <button className="ContactBtn">Show All</button>
+                <a href="/case-studies"><button className="ContactBtn">Show All</button></a>
               </div>
             </div>
           </div>

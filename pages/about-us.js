@@ -190,7 +190,7 @@ export async function getServerSideProps() {
         body: JSON.stringify({
           query: `
             query {
-              page(id: "about-us", idType: URI) {
+              page(id: "about", idType: URI) {
                 content
                 pageId
                 title
